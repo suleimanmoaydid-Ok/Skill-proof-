@@ -1,0 +1,6 @@
+{
+  "name": "SkillProof",
+  "description": "Evidence-based skills recognition, credential mapping, and bridging pathways platform for displaced and international professionals. Your skills. Your evidence. Your opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
